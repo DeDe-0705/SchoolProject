@@ -1,0 +1,5 @@
+bjdx.edu.cn#A#0#11.11.22.33!
+bjdx.edu.cn#CNAME#0#gjxy.edu.cn!
+bjdx.edu.cn#MX#0#mail.bjdx.edu.cn!
+mail.bjdx.edu.cn#MX#0#11.0.0.1!
+hndx.edu.cn#A#0#1.0.0.2!

@@ -1,0 +1,4 @@
+edu.com#A#0#127.0.0.9!
+edu.com#CNAME#0#127.0.0.9!
+edu.com#MX#5#127.0.0.9!
+edu.com#PTR#0#127.0.0.9!
