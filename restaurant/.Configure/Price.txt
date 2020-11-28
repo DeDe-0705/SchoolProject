@@ -1,0 +1,5 @@
+mainPrice#9.99
+Nori#1.00
+Chashu#1.00
+Boiled egg#1.00
+Bamboo shoots#2.00

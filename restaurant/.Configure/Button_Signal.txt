@@ -1,0 +1,10 @@
+Tonkotsu#yes
+Shoyu#yes
+Shio#yes
+Nori#yes
+Chashu#yes
+Boiled egg#yes
+Bamboo shoots#yes
+Soft#yes
+Medium#yes
+Firm#yes
